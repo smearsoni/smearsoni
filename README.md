@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Sumeir
 
 🌟 Current Projects
-- [**Fumble**](fumble.chat)
+- [**Fumble**](www.fumble.chat)
 - [**NotaryAI**](#)
 
 ### 🚀 Languages & Tools
