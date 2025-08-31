@@ -42,7 +42,6 @@
 
 <!-- AI & APIs -->
 [![OpenAI](https://img.shields.io/badge/-OpenAI-74aa9c?&logo=openai&logoColor=white)](https://openai.com/api/)
-[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](https://www.langchain.com/langchain)
 
 <!--
 **smearsoni/smearsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
