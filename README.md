@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sumeir
 
-[![trophy](https://github-profile-trophy.vercel.app/?smearsoni=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smearsoni&theme=onedark&title=Joined2020,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 🌟 Current Projects
 - [**Fumble**](https://fumble.chat)
