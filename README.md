@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Sumeir
 
+[![trophy](https://github-profile-trophy.vercel.app/?smearsoni=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 🌟 Current Projects
 - [**Fumble**](https://fumble.chat)
 - **NotaryAI (coming soon!)**
