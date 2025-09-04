@@ -45,6 +45,8 @@
 <!-- AI & APIs -->
 [![OpenAI](https://img.shields.io/badge/-OpenAI-74aa9c?&logo=openai&logoColor=white)](https://openai.com/api/)
 
+<!-- [![Sumeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=smearsoni&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **smearsoni/smearsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
