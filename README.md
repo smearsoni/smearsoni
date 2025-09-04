@@ -45,6 +45,10 @@
 <!-- AI & APIs -->
 [![OpenAI](https://img.shields.io/badge/-OpenAI-74aa9c?&logo=openai&logoColor=white)](https://openai.com/api/)
 
+<!--
+## Github Stats
+![](https://github-stats-cyan-xi.vercel.app/api/top-langs/?username=smearsoni&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact)
+-->
 <!-- [![Sumeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=smearsoni&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
