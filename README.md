@@ -2,7 +2,7 @@
 
 🌟 Current Projects
 - [**Fumble**](https://fumble.chat)
-- [**NotaryAI**](#)
+- [**NotaryAI (coming soon!)**](#)
 
 ### 🚀 Languages & Tools
 
